@@ -1,2 +1,2 @@
-# Projeto_B-blia
+# Projeto_Bíblia
 Projeto da Bíblia
